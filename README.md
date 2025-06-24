@@ -1,1 +1,0 @@
-# Bike-Rental-and-Ridesharing-Platform
